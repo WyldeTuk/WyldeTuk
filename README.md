@@ -1,6 +1,6 @@
  <div>
    <a href="https://github.com/WyldeTuk">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WyldeTuk&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WyldeTuk&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyldeTuk&layout=compact&langs_count=6&theme=outrun"/>
 
 </div>
